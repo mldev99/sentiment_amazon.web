@@ -127,16 +127,6 @@ h
 
 ---
 
-## 🚀 Deployment (Optional)
-
-You can deploy this app on:
-
-### **Streamlit Cloud**
-```
-1. Push to GitHub
-2. Visit share.streamlit.io
-3. Connect repo → Select main.py
-```
 
 ### **Render / HuggingFace Spaces**  
 Streamlit is supported out-of-the-box.
@@ -161,4 +151,5 @@ This project is licensed under the **MIT License**.
 ## 🤝 Contributing
 
 Contributions, issues and suggestions are welcome!
+
 
